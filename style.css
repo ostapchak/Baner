@@ -1,0 +1,15 @@
+.slide{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	display: none;
+}
+.active{
+	display: block;
+}
+.slider{
+	width: 300px;
+	height: 200px;
+	margin: 100px auto;
+	border: 5px black solid;
+}
